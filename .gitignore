@@ -1,0 +1,15 @@
+build/
+build-*/
+CMakeUserPresets.json
+compile_commands.json
+
+.DS_Store
+.cache/
+.vscode/
+.idea/
+
+*.o
+*.a
+*.so
+*.dylib
+*.dSYM/
