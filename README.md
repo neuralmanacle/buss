@@ -1,3 +1,5 @@
+<img src="buss_logo.png" alt="Buss Logo" width="100">
+
 # Buss
 
 **An automotive audio middleware platform built to learn and explore real-time audio, systems programming, and embedded software engineering.**
